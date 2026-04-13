@@ -1,3 +1,21 @@
+- title: "World Congress on Particle Technology (WCPT10)"
+  link: "https://wcpt10.org/"
+  city: "Int'l Convention Center, Osaka"
+  description: "Oral presentation"
+  date: "2026-05-13"
+
+- title: "Annual Aerosol CDT Conference"
+  link: "https://www.aerosol-cdt.ac.uk/2026-annual-conference/"
+  city: "Edgbaston Hotel, Uni of Birmingham"
+  description: "Oral presentation"
+  date: "2026-04-27"
+
+- title: "Congrès Français sur les Aérosols (CFA2026)"
+  link: "https://www.asfera.org/fr/cfa/cfa1/presentation/"
+  city: "FIAP, Paris"
+  description: "Oral presentation and [conference paper](https://doi.org/10.25576/asfera-cfa2026-50150)"
+  date: "2026-04-01"
+
 - title: "Annual Aerosol Science Conference"
   link: "https://aerosol-soc.com/events/annual-aerosol-science-conference-2025/"
   city: "The Guildhall, York"
@@ -28,7 +46,7 @@
   description: "Summer school attendee & conference poster presentation"
   date: "2025-06-23"
 
-- title: "Annual Aerosol CDT Conference"
+- title: "Annual Aerosol CDT Conference 2024"
   link: "https://www.aerosol-cdt.ac.uk/2024-annual-conference/"
   city: "Marriott Hotel, Bristol"
   description: "[Poster](/posts/cdt-conf-2024/) presentation"
@@ -46,13 +64,13 @@
   description: "[Poster](/posts/cdt-conf-2025/) presentation"
   date: "2025-05-06"
 
-- title: "Annual Aerosol Science Conference"
+- title: "Annual Aerosol Science Conference 2025"
   link: "https://aerosol-soc.com/events/annual-aerosol-science-conference-2023/"
   city: "National Physics Laboratory, London"
   description: "Attendee"
   date: "2023-10-16"
 
-- title: "Annual Aerosol Science Conference"
+- title: "Annual Aerosol Science Conference 2024"
   link: "https://aerosol-soc.com/events/annual-aerosol-science-conference-2024/"
   city: "The Guildhall, York"
   description: "Attendee"
